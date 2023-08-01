@@ -9,9 +9,11 @@ A passionate tech enthusiast and Web developer. I thrive on solving problems and
 <p align="left">
 <a href="https://linkedin.com/in/rishita1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishita1304" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishita1304&show_icons=true&locale=en&layout=compact" alt="rishita1304" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishita1304&show_icons=true&theme=dark&locale=en&layout=compact" alt="rishita1304" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishita1304&show_icons=true&locale=en" alt="rishita1304" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishita1304&show_icons=true&theme=dark&locale=en" alt="rishita1304" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishita1304&theme=dark" alt="rishita1304" /></p>
 
 
 
