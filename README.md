@@ -17,7 +17,7 @@ A passionate tech enthusiast and Web developer. I thrive on solving problems and
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rishita1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishita1304" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishita1304" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="rishita1304" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishita1304&show_icons=true&theme=dark&title_color=ffffff&text_color=fcf7f7&locale=en&layout=compact" alt="rishita1304" /></p>
