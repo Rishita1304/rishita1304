@@ -46,7 +46,7 @@ A passionate tech enthusiast and Web developer. I thrive on solving problems and
 <h3 align="left">Stats:</h3>
 <div>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishita1304&show_icons=true&theme=dark&title_color=ffffff&text_color=fcf7f7&locale=en&layout=compact" alt="rishita1304" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishita1304&show_icons=true&theme=dark&title_color=ffffff&text_color=fcf7f7&locale=en&layout=compact" alt="rishita1304" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishita1304&show_icons=true&theme=dark&title_color=fbf4f4&text_color=ffffff&locale=en" alt="rishita1304" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishita1304&theme=dark" alt="rishita1304" /></p>
 </div>
