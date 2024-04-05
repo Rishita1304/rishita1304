@@ -37,8 +37,10 @@ A passionate tech enthusiast and Web developer. I thrive on solving problems and
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
+  <a href="https://www.linkedin.com/in/rishita1304/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
+  </a>
 </div>
 
 <h3 align="left">Stats:</h3>
