@@ -41,7 +41,9 @@ A passionate tech enthusiast and Web developer. I thrive on solving problems and
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
   </a>
-  <a href="https://www.leetcode.com/rishita1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishita1304" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/rishita1304">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishita1304" height="40" />
+  <img width="12" /></a>
 </div>
 
 <h3 align="left">Stats:</h3>
