@@ -2,8 +2,6 @@
 
 A passionate tech enthusiast and Full Stack developer. I thrive on solving problems and turning ideas into reality through code.I'm always eager to learn and explore new technologies.Let's connect and collaborate on exciting projects! 🚀
 
-<img src="https://raw.githubusercontent.com/rishita1304/rishita1304/output/snake.svg" alt="Snake animation" />
-
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
