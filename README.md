@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 I'm RIshita Srivastava, a Full-stack Developer from India!</h2>
+<h2 align="left">Hi!👋 I'm Rishita Srivastava, a Full-stack Developer from India!</h2>
 
 ###
 
