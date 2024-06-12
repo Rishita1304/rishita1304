@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rishita Srivastava and I'm a Fullstack Developer , from India</h2>
+<h2 align="left">Hi!👋 I'm a Fullstack Developer from India passionate about web and app development. Let's create together!</h2>
 
 ###
 
